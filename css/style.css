@@ -1,0 +1,38 @@
+:root{
+    --color-backgraund-div: #E0E0E0;
+    --color-backgraund-content: #C4C4C4;
+    --color-black: #000;
+    --color-white: #fff;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;;
+}
+
+section{
+
+}
+
+h3{
+    color: var(--color-black);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.22;
+}
+
+p{
+    color: var(--color-black);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.28;
+}
+
+div{
+
+}
+
+.image{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.28;
+}
